@@ -44,16 +44,14 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* Outstanding Student of Jiangnan University
+- *2024.12* First-Class Scholarship of Jiangnan University
+- *2023.12* National Scholarship for Undergraduate Students (2022-2023)
+- *2017.12* Outstanding Communist Youth League Member of Zhejiang Province
 
 # 📖 Educations
 - *2024.07 - now*, Visiting Student, ShanghaiTech University, Shanghai.
 - *2022.09 - now*, Undergraduate, Jiangnan University, Wuxi. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
