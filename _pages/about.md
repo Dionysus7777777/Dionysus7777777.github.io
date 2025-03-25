@@ -60,6 +60,7 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 - *2024.07 - now*, Visiting Student, ShanghaiTech University, Shanghai.
 - *2022.09 - now*, Undergraduate, Jiangnan University, Wuxi. 
 
+<span class='anchor' id='service-and-leadership'></span>
 # ⭐ Service and leadership
 - *2025.02 - now*, Competition Instructor, School of Internet of Things Engineering, Jiangnan University
 - *2023.11 - now*, Academic Counselor, School of Internet of Things Engineering, Jiangnan University
