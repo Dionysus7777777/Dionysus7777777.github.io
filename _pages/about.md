@@ -19,12 +19,9 @@ redirect_from:
 
 I’m Jingran Zhang, an undergraduate student at Jiangnan University, affiliated with the Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education. Since July 2024, I have been a visiting student in the Motor and Motion-Control Laboratory at ShanghaiTech University, under the supervision of Prof. Jiahao Chen.
 
-I am interested in neural networks, deep learning, invariant extended Kalman filtering, robotic reinforcement learning, and nonlinear control. I have conducted studies and research in the fields of process control and robotics. For more details, please refer to my CV and publications.
+I am interested in neural networks, deep learning, invariant extended Kalman filtering, robotic reinforcement learning, and nonlinear control. I have conducted studies and research in the fields of process control and robotics. I have published two papers and am currently submitting two more in the fields of process control and robotics. For more details, please refer to my CV and publications.
 
 I am seeking Master/PhD opportunities in control for the 2026 semester.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
