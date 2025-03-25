@@ -49,7 +49,8 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 - *2024.11* Sixth Place of 2024 RoboCup Brazil Open
 - *2024.11* Fourth Place of 2024 RoboCup Yangzhou Invitational
 - *2024.5* Third Place of 2024 RoboCup China
-- 
+
+
 # 🎖 Honors and Awards
 - *2024.12* Outstanding Student of Jiangnan University
 - *2024.12* First-Class Scholarship of Jiangnan University
