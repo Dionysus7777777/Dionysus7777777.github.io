@@ -24,8 +24,8 @@ I am interested in neural networks, deep learning, invariant extended Kalman fil
 I am seeking Master/PhD opportunities in control for the 2026 semester.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉🎉 Completed the paper and submitted it to IROS. 
+- *2024.11*: &nbsp;🎉🎉 Successfully participated in RoboCup Brazil Open and achieved the sixth place in the world.
 
 # 📝 Publications 
 
