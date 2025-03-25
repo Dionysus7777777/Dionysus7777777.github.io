@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingran Zhang"
   avatar           : "images/new.jpg"
-  bio              : "Jiangnan University"
+  bio              : "An undergraduate student at Jiangnan University. A visiting student at ShanghaiTech University since July 2024."
   location         : "Wuxi, China"
-  employer         :
+  employer         : "Jiangnan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=ANZ5fUPXNDS5QoQK0RZSTj3FyJXnDSoioYwXRuX6-Uxxc5MWJmJvvWN6REh4W73kgdtuLcbkXPyFbozR1YqYFfPS2kQ&user=Os1NMO0AAAAJ"
   email            : "zjr20040106@qq.com"
