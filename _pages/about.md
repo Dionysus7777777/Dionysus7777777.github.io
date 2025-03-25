@@ -43,6 +43,12 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# ✊ Honors and Awards
+- *2024.12* Outstanding Student of Jiangnan University
+- *2024.12* First-Class Scholarship of Jiangnan University
+- *2023.12* National Scholarship for Undergraduate Students (2022-2023)
+- *2017.12* Outstanding Communist Youth League Member of Zhejiang Province
+
 # 🎖 Honors and Awards
 - *2024.12* Outstanding Student of Jiangnan University
 - *2024.12* First-Class Scholarship of Jiangnan University
