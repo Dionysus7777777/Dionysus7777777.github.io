@@ -53,5 +53,5 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 - *2024.07 - now*, Visiting Student, ShanghaiTech University, Shanghai.
 - *2022.09 - now*, Undergraduate, Jiangnan University, Wuxi. 
 
-# 💻 Internships
+# ⭐ Service and leadership
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
