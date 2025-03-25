@@ -43,9 +43,9 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-<span class='anchor' id='competition'></span>
+<span class='anchor' id='competitions'></span>
 
-# ✊ Competition
+# ✊ Competitions
 - *2024.11* Sixth Place of 2024 RoboCup Brazil Open
 - *2024.11* Fourth Place of 2024 RoboCup Yangzhou Invitational
 - *2024.5* Third Place of 2024 RoboCup China
