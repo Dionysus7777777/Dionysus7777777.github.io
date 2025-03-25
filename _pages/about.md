@@ -54,4 +54,9 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 - *2022.09 - now*, Undergraduate, Jiangnan University, Wuxi. 
 
 # ⭐ Service and leadership
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.02 - now*, Competition Instructor, School of Internet of Things Engineering, Jiangnan University
+- *2023.11 - now*, Academic Counselor, School of Internet of Things Engineering, Jiangnan University
+- *2023.9 - now*, Leader of the Robotics Club, School of Internet of Things Engineering, Jiangnan University
+- *2022.9 - now*, Class Monitor of Automation 2204, School of Internet of Things Engineering, Jiangnan University
+- *2024.11 - 2024.11*, Judge of the 3D Simulation Soccer Project, RoboCup Yangzhou Invitational Tournament
+- *2017.10 - 2018.10*, President of the Student Union, Wenzhou Experimental Middle School
