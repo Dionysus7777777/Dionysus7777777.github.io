@@ -70,6 +70,22 @@ My Responsibilities:
 <span class='anchor' id='competitions'></span>
 
 # ✊ Competitions
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup 3D</div><img src='images/competitions/robocup.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Optimization of Team Strategies and Motion Training for RoboCup 3D Soccer Teams]
+
+**Jingran Zhang**, Chen Chen, Qi Wu, Haonan Zhang, Yihang Chen
+
+[**Team Description Paper**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+My Responsibilities:
+- Implementation of Physics-informed Koopman Neural Networks;
+- Dataset processing and neural network training;
+- Contribution to the writing of the paper.
+</div>
+</div>
+
 - *2024.11* Sixth Place of 2024 RoboCup Brazil Open
 - *2024.11* Fourth Place of 2024 RoboCup Yangzhou Invitational
 - *2024.05* Third Place of 2024 RoboCup China
