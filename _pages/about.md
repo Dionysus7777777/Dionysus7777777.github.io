@@ -39,7 +39,7 @@ I am seeking Master/PhD opportunities in control science and engineering for the
 
 Quan Li, **Jingran Zhang**, Haiying Wan, Zhonggai Zhao, Fei Liu*
 
-[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[PDF](images/pdf/iros.pdf) 
 
 My Responsibilities:
 - Implementation of Physics-informed Koopman Neural Networks;
