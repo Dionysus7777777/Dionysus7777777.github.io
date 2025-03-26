@@ -55,8 +55,6 @@ My Responsibilities:
 
 **Jingran Zhang**, Zhengzhang Yan, Yiming Chen, Zeqiang He, Jiahao Chen*
 
-[**Video**](/video/2025IROS_ZJR.mp4)
-
 My Responsibilities:
 - InEKF theoretical study and code implementation; 
 - Designed and conducted experiments for algorithm validation; 
@@ -72,7 +70,7 @@ Deep Koopman model predictive control of microbial fermentation processes：a ph
 
 Quan Li, Haiying Wan, **Jingran Zhang**, Zhonggai Zhao, Fei Liu*
 
-[**PDF**](/pdf/cpcid_post.pdf)
+[**Post**](/pdf/cpcid_post.png)
 
 My Responsibilities:
 - Implementation of Koopman Neural Networks;
