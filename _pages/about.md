@@ -94,6 +94,7 @@ My Responsibilities:
 **Jingran Zhang**, Chen Chen, Qi Wu, Haonan Zhang, Yihang Chen
 
 [**Team Description Paper**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Report**](https://news.jiangnan.edu.cn/info/1052/94264.htm) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 My Responsibilities:
 - Served as the captain of the school's 3D soccer project;
