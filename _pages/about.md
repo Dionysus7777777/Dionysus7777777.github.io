@@ -89,7 +89,7 @@ My Responsibilities:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup 3D</div><img src='images/competitions/robocup.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Optimization of Team Strategies and Motion Training for RoboCup 3D Soccer Teams]
+**Optimization of Team Strategies and Motion Training for RoboCup 3D Soccer Teams**
 
 **Jingran Zhang**, Chen Chen, Qi Wu, Haonan Zhang, Yihang Chen
 
