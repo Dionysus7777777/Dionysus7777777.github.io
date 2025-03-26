@@ -58,10 +58,10 @@ Quan Li, Haiying Wan, **Jingran Zhang**, Zhonggai Zhao, Fei Liu*
 [**Post**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 My Responsibilities:
-* InEKF theoretical study and code implementation; 
-* Designed and conducted experiments for algorithm validation; 
-* IROS paper writing and data analysis;
-* Utilized motion capture equipment to obtain reference trajectories.
+- InEKF theoretical study and code implementation; 
+- Designed and conducted experiments for algorithm validation; 
+- IROS paper writing and data analysis;
+- Utilized motion capture equipment to obtain reference trajectories.
 </div>
 </div>
 
@@ -75,9 +75,9 @@ Deep Koopman model predictive control of microbial fermentation processes：a ph
 [**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 My Responsibilities:
-* Implementation of Koopman Neural Networks;
-* Dataset processing and neural network training;
-* Design of poster visuals.
+- Implementation of Koopman Neural Networks;
+- Dataset processing and neural network training;
+- Design of poster visuals.
 </div>
 </div>
 
@@ -96,9 +96,10 @@ My Responsibilities:
 [**Team Description Paper**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 My Responsibilities:
-- Implementation of Physics-informed Koopman Neural Networks;
-- Dataset processing and neural network training;
-- Contribution to the writing of the paper.
+Served as the captain of the school's 3D soccer project, leading the team in developing team code and strategy code based on dynamic programming. Improved and adapted the robot's kicking movements, achieving the school's best historical performance.
+- Served as the captain of the school's 3D soccer project;
+- leading the team in developing team code and strategy code based on dynamic programming;
+- Improved and adapted the robot's kicking movements.
 </div>
 </div>
 
