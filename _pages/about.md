@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Jingran Zhang, an undergraduate student at Jiangnan University, affiliated with the Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education. 
-Since July 2024, I have been a visiting student in the Motor and Motion-Control Laboratory at ShanghaiTech University, under the supervision of Prof. Jiahao Chen.
+I’m Jingran Zhang, an undergraduate student at Jiangnan University, affiliated with the Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education. Since July 2024, I have been a visiting student in the Motor and Motion-Control Laboratory at ShanghaiTech University, under the supervision of Prof. Jiahao Chen.
 
 I am interested in neural networks, deep learning, invariant extended Kalman filtering, robotic reinforcement learning, and nonlinear control. Currently, I have published two articles, with two more currently under submission. For more details, please refer to my CV and publications.
 
