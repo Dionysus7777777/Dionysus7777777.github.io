@@ -55,7 +55,7 @@ My Responsibilities:
 
 **Jingran Zhang**, Zhengzhang Yan, Yiming Chen, Zeqiang He, Jiahao Chen*
 
-[**Video**](/video/irosvideo.mp4)
+[**Video**](/video/2025IROS_ZJR.mp4)
 
 My Responsibilities:
 - InEKF theoretical study and code implementation; 
