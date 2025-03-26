@@ -37,7 +37,7 @@ I am seeking Master/PhD opportunities in control science and engineering for the
 
 [Physics-informed neural networksfor multi-stage Koopman modeling of microbial fermentation processes](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)
 
-Quan Li, <div style="color: #305497;">Jingran Zhang</div>, Haiying Wan, Zhonggai Zhao, Fei Liu*
+Quan Li, **Jingran Zhang**, Haiying Wan, Zhonggai Zhao, Fei Liu*
 
 [**PDF**](/pdf/journal_of_process_control.pdf)
 
