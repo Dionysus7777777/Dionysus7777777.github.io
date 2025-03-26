@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Jingran Zhang, an undergraduate student at Jiangnan University, affiliated with the Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education. Since July 2024, I have been a visiting student in the Motor and Motion-Control Laboratory at ShanghaiTech University, under the supervision of Prof. Jiahao Chen.
+I’m Jingran Zhang, an undergraduate student at Jiangnan University, affiliated with the [Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education](https://apcli.jiangnan.edu.cn/). Since July 2024, I have been a visiting student in the [Motor and Motion-Control Laboratory at ShanghaiTech University](https://faculty.sist.shanghaitech.edu.cn/chenjh/), under the supervision of Prof. Jiahao Chen.
 
 I am interested in neural networks, deep learning, invariant extended Kalman filtering, robotic reinforcement learning, and nonlinear control. Currently, I have published two articles, with two more currently under submission. For more details, please refer to my CV and publications.
 
@@ -66,7 +66,7 @@ My Responsibilities:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPCID 2024</div><img src='images/publications/cpcid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Deep Koopman model predictive control of microbial fermentation processes：a physics-informed neural network framework
+**Deep Koopman model predictive control of microbial fermentation processes：a physics-informed neural network framework**
 
 Quan Li, Haiying Wan, **Jingran Zhang**, Zhonggai Zhao, Fei Liu*
 
