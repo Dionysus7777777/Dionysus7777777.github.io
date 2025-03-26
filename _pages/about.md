@@ -48,14 +48,14 @@ My Responsibilities:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025 (under review)</div><img src='images/pulications/iros.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control (Q2,top)</div><img src='images/publications/iros.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pedestrian Dead Reckoning using Invariant Extended Kalman Filter (under review)](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Pedestrian Dead Reckoning using Invariant Extended Kalman Filter
 
-Quan Li, Haiying Wan, **Jingran Zhang**, Zhonggai Zhao, Fei Liu*
+**Jingran Zhang**, Zhengzhang Yan, Yiming Chen, Zeqiang He, Jiahao Chen*
 
-[**Post**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 My Responsibilities:
 - InEKF theoretical study and code implementation; 
@@ -70,7 +70,7 @@ My Responsibilities:
 
 Deep Koopman model predictive control of microbial fermentation processes：a physics-informed neural network framework
 
-**Jingran Zhang**, Zhengzhang Yan, Yiming Chen, Zeqiang He, Jiahao Chen*
+Quan Li, Haiying Wan, **Jingran Zhang**, Zhonggai Zhao, Fei Liu*
 
 [**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
