@@ -39,7 +39,7 @@ I am seeking Master/PhD opportunities in control science and engineering for the
 
 Quan Li, **Jingran Zhang**, Haiying Wan, Zhonggai Zhao, Fei Liu*
 
-[PDF](images/pdf/iros.pdf) 
+[PDF](pdf/journal_of_process_control.pdf) 
 
 My Responsibilities:
 - Implementation of Physics-informed Koopman Neural Networks;
