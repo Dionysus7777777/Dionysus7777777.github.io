@@ -35,7 +35,7 @@ I am seeking Master/PhD opportunities in control science and engineering for the
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control (Q2,top)</div><img src='images/publications/jpc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physics-informed neural networksfor multi-stage Koopman modeling of microbial fermentation processes](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Physics-informed neural networksfor multi-stage Koopman modeling of microbial fermentation processes](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)
 
 Quan Li, **Jingran Zhang**, Haiying Wan, Zhonggai Zhao, Fei Liu*
 
