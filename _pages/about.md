@@ -81,7 +81,7 @@ My Responsibilities:
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Q Li, **J Zhang**, H W, et al. "Robust EMPC for the microbial fermentation process with structural model-plant mismatch: A deep Koopman model-error model method", *IEEE Transactions on Automation Science and Engineering*, Peer review, Manuscript ID: T-ASE-2025-271.  
 
 <span class='anchor' id='competitions'></span>
 
