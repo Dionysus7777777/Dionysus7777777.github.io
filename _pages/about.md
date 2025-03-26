@@ -25,10 +25,10 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 
 # 🔥 News
 
--  *2025.03*: &nbsp;🎉🎉 The team has qualified for the RoboCup World Championship.
--  *2025.03*: &nbsp;🎉🎉 Completed the paper and submitted it to IROS.
--  *2024.11*: &nbsp;🎉🎉 Successfully participated in RoboCup Brazil Open and achieved the sixth place in the world.
--  *2024.07*: &nbsp;🎉🎉 Became a visiting student at the MMLab of ShanghaiTech University.
+-  *2025.03*: &nbsp;🎉⚽ The team has qualified for the RoboCup World Championship. 
+-  *2025.03*: &nbsp;🎉🤖 Completed the paper and submitted it to IROS. 
+-  *2024.11*: &nbsp;🎉🎖️ Successfully participated in RoboCup Brazil Open and achieved the sixth place in the world. 
+-  *2024.07*: &nbsp;🎉🖥️ Became a visiting student at the MMLab of ShanghaiTech University. 
 
 # 📝 Publications 
 
@@ -54,7 +54,7 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 - *2024.05* Third Place of 2024 RoboCup China
 
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2024.12* Outstanding Student of Jiangnan University
 - *2024.12* First-Class Scholarship of Jiangnan University
 - *2023.12* National Scholarship for Undergraduate Students (2022-2023)
@@ -65,7 +65,7 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 - *2022.09 - now*, Undergraduate, Jiangnan University, Wuxi. 
 
 <span class='anchor' id='service-and-leadership'></span>
-# ⭐ Service and leadership
+# 🤝 Service and leadership
 - *2025.02 - now*, Competition Instructor, School of Internet of Things Engineering, Jiangnan University
 - *2023.11 - now*, Academic Counselor, School of Internet of Things Engineering, Jiangnan University
 - *2023.09 - now*, Leader of the Robotics Club, School of Internet of Things Engineering, Jiangnan University
