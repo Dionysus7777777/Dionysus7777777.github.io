@@ -51,7 +51,7 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 # ✊ Competitions
 - *2024.11* Sixth Place of 2024 RoboCup Brazil Open
 - *2024.11* Fourth Place of 2024 RoboCup Yangzhou Invitational
-- *2024.5* Third Place of 2024 RoboCup China
+- *2024.05* Third Place of 2024 RoboCup China
 
 
 # 🎖 Honors and Awards
@@ -68,7 +68,7 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 # ⭐ Service and leadership
 - *2025.02 - now*, Competition Instructor, School of Internet of Things Engineering, Jiangnan University
 - *2023.11 - now*, Academic Counselor, School of Internet of Things Engineering, Jiangnan University
-- *2023.9 - now*, Leader of the Robotics Club, School of Internet of Things Engineering, Jiangnan University
-- *2022.9 - now*, Class Monitor of Automation 2204, School of Internet of Things Engineering, Jiangnan University
+- *2023.09 - now*, Leader of the Robotics Club, School of Internet of Things Engineering, Jiangnan University
+- *2022.09 - now*, Class Monitor of Automation 2204, School of Internet of Things Engineering, Jiangnan University
 - *2024.11 - 2024.11*, Judge of the 3D Simulation Soccer Project, RoboCup Yangzhou Invitational Tournament
 - *2017.10 - 2018.10*, President of the Student Union, Wenzhou Experimental Middle School
