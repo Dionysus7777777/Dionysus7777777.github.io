@@ -40,7 +40,10 @@ I am seeking Master/PhD opportunities in control for the 2026 semester.
 Quan Li, **Jingran Zhang**, Haiying Wan, Zhonggai Zhao, Fei Liu*
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My Responsibilities:
+- Implementation of Physics-informed Koopman Neural Networks;
+- Dataset processing and neural network training;
+- Contribution to the writing of the paper.
 </div>
 </div>
 
