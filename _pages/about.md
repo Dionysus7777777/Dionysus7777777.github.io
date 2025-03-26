@@ -91,7 +91,7 @@ My Responsibilities:
 
 **Jingran Zhang**, Chen Chen, Qi Wu, Haonan Zhang, Yihang Chen
 
-[**Team Description Pape**](/pdf/TDP.pdf)
+[**Team Description Pape**](/pdf/TDP.pdf)~~~~
 [**Report**](https://news.jiangnan.edu.cn/info/1052/94264.htm) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 My Responsibilities:
