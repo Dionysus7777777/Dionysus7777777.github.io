@@ -48,7 +48,7 @@ My Responsibilities:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control (Q2,top)</div><img src='images/publications/iros.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025 (under review)</div><img src='images/publications/iros.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Pedestrian Dead Reckoning using Invariant Extended Kalman Filter**
