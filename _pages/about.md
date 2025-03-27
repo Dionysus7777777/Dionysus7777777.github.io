@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Jingran Zhang, an undergraduate student at Jiangnan University, affiliated with the [Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education](https://apcli.jiangnan.edu.cn/). Since July 2024, I have been a visiting student in the [Motor and Motion-Control Laboratory at ShanghaiTech University](https://faculty.sist.shanghaitech.edu.cn/chenjh/), under the supervision of Prof. Jiahao Chen.
+I’m Jingran Zhang, an undergraduate student at Jiangnan University, affiliated with the [Key Laboratory of Advanced Process Control for Light Industry, Ministry of Education](https://apcli.jiangnan.edu.cn/). Since July 2024, I have been a visiting student in the [Motor and Motion-Control Laboratory](https://faculty.sist.shanghaitech.edu.cn/chenjh/) at ShanghaiTech University, under the supervision of Prof. Jiahao Chen.
 
-I am interested in neural networks, deep learning, invariant extended Kalman filtering, robotic reinforcement learning, and nonlinear control. Currently, I have published two articles, with two more currently under submission. For more details, please refer to my CV and publications.
+I am interested in neural networks, deep learning, invariant extended Kalman filtering, robotic reinforcement learning, and nonlinear control. I have published two articles, with two more currently under submission. For more details, please refer to my CV and publications.
 
 I am seeking Master/PhD opportunities in control science and engineering for the 2026 semester.
 
@@ -91,7 +91,7 @@ My Responsibilities:
 
 **Jingran Zhang**, Chen Chen, Qi Wu, Haonan Zhang, Yihang Chen
 
-[**Team Description Pape**](/pdf/TDP.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Report**](https://news.jiangnan.edu.cn/info/1052/94264.htm) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Team Description Paper**](/pdf/TDP.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Report**](https://news.jiangnan.edu.cn/info/1052/94264.htm) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 My Responsibilities:
 - Served as the captain of the school's 3D soccer project;
