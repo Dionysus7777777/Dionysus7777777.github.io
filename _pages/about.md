@@ -116,7 +116,7 @@ My Responsibilities:
 - *2022.09 - now*, Undergraduate, Jiangnan University, Wuxi. 
 
 <span class='anchor' id='service-and-leadership'></span>
-# 🤝 Service and leadership
+# 🤝 Service and Leadership
 - *2025.02 - now*, Competition Instructor, School of Internet of Things Engineering, Jiangnan University
 - *2023.11 - now*, Academic Counselor, School of Internet of Things Engineering, Jiangnan University
 - *2023.09 - now*, Leader of the Robotics Club, School of Internet of Things Engineering, Jiangnan University
