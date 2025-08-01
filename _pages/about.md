@@ -24,12 +24,12 @@ I am interested in neural networks, deep learning, invariant extended Kalman fil
 I am seeking Master/PhD opportunities in control science and engineering for the 2026 semester.
 
 # 🔥 News
-
+-  *2025.07*: &nbsp;🎉⚽ The team placed third in the RoboCup.
+-  *2025.05*: &nbsp;🎉⚽ The team won the First Prize in the RoboCup China Open.
 -  *2025.03*: &nbsp;🎉⚽ The team has qualified for the RoboCup World Championship. 
--  *2025.03*: &nbsp;🎉🤖 Completed the paper and submitted it to IROS. 
 -  *2024.11*: &nbsp;🎉🎖️ Successfully participated in RoboCup Brazil Open and achieved the sixth place in the world. 
--  *2024.07*: &nbsp;🎉🖥️ Became a visiting student at the MMLab of ShanghaiTech University. 
-
+-  *2024.07*: &nbsp;🎉🖥️ Became a visiting student at the MMLab of ShanghaiTech University.
+-  *2024.05*: &nbsp;🎉 ⚽ The team won the First Prize and placed third in the RoboCup China Open.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control (Q2,top)</div><img src='images/publications/jpc.png' alt="sym" width="100%"></div></div>
