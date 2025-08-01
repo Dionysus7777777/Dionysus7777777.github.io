@@ -100,7 +100,7 @@ My Responsibilities:
 </div>
 </div>
 
-- *2025.07* Sixth Place of 2025 RoboCup
+- *2025.07* Third Place of 2025 RoboCup
 - *2025.05* Sixth Place of 2025 RoboCup China
 - *2024.11* Sixth Place of 2024 RoboCup Brazil Open
 - *2024.11* Fourth Place of 2024 RoboCup Yangzhou Invitational
