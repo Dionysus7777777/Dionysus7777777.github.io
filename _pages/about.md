@@ -48,7 +48,7 @@ My Responsibilities:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025 (under review)</div><img src='images/publications/iros.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025 (under review)</div><img src='images/publications/iros.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Pedestrian Dead Reckoning using Invariant Extended Kalman Filter**
@@ -58,7 +58,7 @@ My Responsibilities:
 My Responsibilities:
 - InEKF theoretical study and code implementation; 
 - Designed and conducted experiments for algorithm validation; 
-- IROS paper writing and data analysis;
+- ROBIO paper writing and data analysis;
 - Utilized motion capture equipment to obtain reference trajectories.
 </div>
 </div>
