@@ -94,7 +94,7 @@ My Responsibilities:
 
 [**Team Description Paper**](/pdf/TDP.pdf) &nbsp; &nbsp; &nbsp; &nbsp;
 [**Report 1**](https://news.jiangnan.edu.cn/info/1052/94264.htm) &nbsp; &nbsp; &nbsp; &nbsp;
-[**Report 2**](https://example.com/report2.html)
+[**Report 2**](https://mp.weixin.qq.com/s/ZBb5QLjtZCiwZtk2oviRAA)
 
 <strong>
   <span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span>
