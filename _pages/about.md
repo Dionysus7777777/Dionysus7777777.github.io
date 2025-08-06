@@ -28,7 +28,6 @@ I am seeking Master/PhD opportunities in control science and engineering for the
 -  *2025.06*: &nbsp;🎉🎖️ Awarded the Infineon Technologies Scholarship by Jiangnan University for outstanding academic performance.
 -  *2025.05*: &nbsp;🎉⚽ The Dionysus team won First Prize and placed third in the RoboCup China Open 2025.
 -  *2025.04*: &nbsp;🎉🎖️ Recognized as a "Sanhao (Three-Good) Student" by the Wuxi Municipal Education Bureau.
--  *2025.03*: &nbsp;🎉⚽ The team has qualified for the RoboCup World Championship. 
 -  *2024.11*: &nbsp;🎉⚽ The Dionysus team participated in the RoboCup Brazil Open and achieved 6th place worldwide.
 -  *2024.07*: &nbsp;🎉🖥️ Became a visiting student at the MMLab of ShanghaiTech University.
 -  *2024.05*: &nbsp;🎉⚽ The Dionysus team won the First Prize and placed third in the RoboCup China Open.
