@@ -21,7 +21,7 @@ I’m Jingran Zhang, an undergraduate student at Jiangnan University, affiliated
 
 I am interested in neural networks, deep learning, invariant extended Kalman filtering, robotic reinforcement learning, and nonlinear control. I have published two articles, with two more currently under submission. For more details, please refer to my CV and publications.
 
-I am seeking Master/PhD opportunities in control science and engineering for the 2026 semester.
+I am seeking M.S. or Ph.D. opportunities in control science and engineering for the 2026 semester.
 
 # 🔥 News
 -  *2025.07*: &nbsp;🎉⚽ The Dionysus team placed third in the RoboCup World Championship.
