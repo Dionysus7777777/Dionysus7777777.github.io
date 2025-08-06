@@ -130,9 +130,9 @@ My Responsibilities:
 <span class='anchor' id='service-and-leadership'></span>
 # 🤝 Service and Leadership
 - *2025.02 - now*, Competition Instructor, School of Internet of Things Engineering, Jiangnan University
+- *2024.11 - 2024.11*, Judge of the 3D Simulation Soccer Project, RoboCup Yangzhou Invitational Tournament
 - *2023.11 - now*, Academic Counselor, School of Internet of Things Engineering, Jiangnan University
 - *2023.09 - now*, Leader of the Robotics Club, School of Internet of Things Engineering, Jiangnan University
 - *2022.09 - now*, Class Monitor of Automation 2204, School of Internet of Things Engineering, Jiangnan University
-- *2024.11 - 2024.11*, Judge of the 3D Simulation Soccer Project, RoboCup Yangzhou Invitational Tournament
 - *2020.04 - 2020.08*, Campus Student Intern, Harvard Summit for Young Leaders in China
 - *2017.10 - 2018.10*, President of the Student Union, Wenzhou Experimental Middle School
