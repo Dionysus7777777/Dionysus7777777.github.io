@@ -52,21 +52,6 @@ My Responsibilities:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025 (under review)</div><img src='images/publications/iros.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Pedestrian Dead Reckoning using Invariant Extended Kalman Filter**
-
-**Jingran Zhang**, Zhengzhang Yan, Yiming Chen, Zeqiang He, Jiahao Chen*
-
-My Responsibilities:
-- InEKF theoretical study and code implementation; 
-- Designed and conducted experiments for algorithm validation; 
-- Paper writing and data analysis;
-- Utilized motion capture equipment to obtain reference trajectories.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPCID 2024</div><img src='images/publications/cpcid.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 **Curriculum Learning-based Physics-informed Neural Network Modeling for Microbial Fermentation Process**
 
 **Jingran Zhang**, Quan Li, Haiying Wan*
@@ -80,6 +65,21 @@ My Responsibilities:
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2025</div><img src='images/publications/CAC2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Pedestrian Dead Reckoning using Invariant Extended Kalman Filter**
+
+**Jingran Zhang**, Zhengzhang Yan, Yiming Chen, Zeqiang He, Jiahao Chen*
+
+My Responsibilities:
+- InEKF theoretical study and code implementation; 
+- Designed and conducted experiments for algorithm validation; 
+- Paper writing and data analysis;
+- Utilized motion capture equipment to obtain reference trajectories.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPCID 2024</div><img src='images/publications/cpcid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Deep Koopman model predictive control of microbial fermentation processes：a physics-informed neural network framework**
