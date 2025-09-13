@@ -31,6 +31,7 @@ I am seeking M.S. or Ph.D. opportunities in control science and engineering for 
 -  *2024.11*: &nbsp;🎉⚽ The Dionysus team participated in the RoboCup Brazil Open and achieved 6th place worldwide.
 -  *2024.07*: &nbsp;🎉🖥️ Became a visiting student at the MMLab of ShanghaiTech University.
 -  *2024.05*: &nbsp;🎉⚽ The Dionysus team won the First Prize and placed third in the RoboCup China Open.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control (Q2,top)</div><img src='images/publications/jpc.png' alt="sym" width="100%"></div></div>
