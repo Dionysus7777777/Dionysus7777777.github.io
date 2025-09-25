@@ -24,6 +24,7 @@ I am interested in neural networks, deep learning, invariant extended Kalman fil
 I am seeking M.S. or Ph.D. opportunities in control science and engineering for the 2026 semester.
 
 # 🔥 News
+-  *2025.07*: &nbsp;🎉🖥️ I have been admitted to the College of Control Science and Engineering at Zhejiang University as a Ph.D. student.
 -  *2025.07*: &nbsp;🎉⚽ The Dionysus team placed third in the RoboCup World Championship.
 -  *2025.06*: &nbsp;🎉🎖️ Awarded the Infineon Technologies Scholarship by Jiangnan University for outstanding academic performance.
 -  *2025.05*: &nbsp;🎉⚽ The Dionysus team won First Prize and placed third in the RoboCup China Open 2025.
