@@ -21,7 +21,7 @@ I’m Jingran Zhang, an undergraduate student at Jiangnan University, affiliated
 
 I am interested in neural networks, deep learning, invariant extended Kalman filtering, robotic reinforcement learning, and nonlinear control. I have published two articles, with two more currently under submission. For more details, please refer to my CV and publications.
 
-I am seeking M.S. or Ph.D. opportunities in control science and engineering for the 2026 semester.
+I am currently a prospective Ph.D. student at the College of Control Science and Engineering, Zhejiang University, under the supervision of Prof. [Xingwen Zheng](https://www.zheng-xingwen.com/) Our research interests mainly focus on bionic robotics and underwater robotics.
 
 # 🔥 News
 -  *2025.07*: &nbsp;🎉🖥️ I have been admitted to the College of Control Science and Engineering at Zhejiang University as a Ph.D. student.
