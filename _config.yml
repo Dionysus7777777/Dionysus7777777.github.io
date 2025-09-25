@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingran Zhang"
-description              : "An undergraduate student at Jiangnan University. A visiting student at ShanghaiTech University since July 2024. "
+description              : "Undergraduate student at Jiangnan University. Visiting student at ShanghaiTech University. Incoming Ph.D. student at Zhejiang University (from September 2026)."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingran Zhang"
   avatar           : "images/new.jpg"
-  bio              : "Jiangnan University, ShanghaiTech University"
+  bio              : "Jiangnan University, ShanghaiTech University, Zhejiang University"
   location         : "Wuxi, China"
   employer         : 
   pubmed           : 
