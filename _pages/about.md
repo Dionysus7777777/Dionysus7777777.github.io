@@ -70,7 +70,7 @@ My Responsibilities:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025 (under review)</div><img src='images/publications/iros.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Pedestrian Dead Reckoning using Invariant Extended Kalman Filter**
+[Pedestrian Dead Reckoning using Invariant Extended Kalman Filter](https://arxiv.org/abs/2508.11396)
 
 **Jingran Zhang**, Zhengzhang Yan, Yiming Chen, Zeqiang He, Jiahao Chen*
 
