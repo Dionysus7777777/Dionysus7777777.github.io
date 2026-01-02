@@ -21,9 +21,13 @@ I’m Jingran Zhang, an undergraduate student at Jiangnan University, affiliated
 
 I am interested in neural networks, deep learning, invariant extended Kalman filtering, robotic reinforcement learning, and nonlinear control. I have published two articles, with two more currently under submission. For more details, please refer to my CV and publications.
 
+I am a member of the RoboCup Simulation League Organizing Committee (2026), one of only three members worldwide.
+
 I am currently a prospective Ph.D. student at the College of Control Science and Engineering, Zhejiang University, under the supervision of Prof. [Xingwen Zheng](https://www.zheng-xingwen.com/) Our research interests mainly focus on bionic robotics and underwater robotics.
 
 # 🔥 News
+-  *2025.12*: &nbsp;🎉🎖️ I was awarded the “IoT Star” Honor by the School of Internet of Things Engineering at Jiangnan University, ranking first overall.
+-  *2025.11*: &nbsp;🎉🎖️ I was awarded the BYD Scholarship at Jiangnan University, granted to one undergraduate student from the school.
 -  *2025.10*: &nbsp;🎉🗣️ Attended the China Automation Congress (CAC) and delivered an oral presentation.
 -  *2025.10*: &nbsp;🎉📜 Our paper has been accepted by ROBIO, and we will attend the conference in Chengdu this December.
 -  *2025.09*: &nbsp;🎉🖥️ I have been admitted to the College of Control Science and Engineering at Zhejiang University as a Ph.D. student.
