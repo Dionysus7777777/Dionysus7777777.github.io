@@ -139,6 +139,8 @@ My Responsibilities:
 
 
 # 🥇 Honors and Awards
+- *2025.12* Jiangnan University “IoT Star” Honor (Ranked 1st overall)
+- *2025.11* Jiangnan University BYD Scholarship (Awarded to the only undergraduate student in the school)
 - *2025.06* Infineon Technologies Scholarship
 - *2025.05* Outstanding Student of Wuxi
 - *2024.12* Outstanding Student of Jiangnan University
@@ -152,6 +154,7 @@ My Responsibilities:
 
 <span class='anchor' id='service-and-leadership'></span>
 # 🤝 Service and Leadership
+- *2025.10 - now*, Member of Organizing Committee, RoboCup Simulation League
 - *2025.02 - now*, Competition Instructor, School of Internet of Things Engineering, Jiangnan University
 - *2024.11 - 2024.11*, Judge of the 3D Simulation Soccer Project, RoboCup Yangzhou Invitational Tournament
 - *2023.11 - now*, Academic Counselor, School of Internet of Things Engineering, Jiangnan University
