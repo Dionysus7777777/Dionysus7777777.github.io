@@ -41,7 +41,7 @@ I am currently a prospective Ph.D. student at the College of Control Science and
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IFAV 2026 (accepted)</div><img src='images/publications/PINN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IFAC 2026 (accepted)</div><img src='images/publications/PINN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Self-Motion Estimation of a Robotic Fish via a Hydrodynamic-Informed Neural Network with Pressure Sensing**
