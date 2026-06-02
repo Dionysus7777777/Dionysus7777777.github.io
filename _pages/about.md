@@ -111,7 +111,7 @@ My Responsibilities:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CES (Q1, Top)</div><img src='images/publications/CES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chemical Engineering Science (Q1, Top)</div><img src='images/publications/CES2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust EMPC for the microbial fermentation process with structural model-plant mismatch: A deep Koopman model-error model method**
