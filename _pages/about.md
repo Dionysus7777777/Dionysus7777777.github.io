@@ -48,8 +48,6 @@ I am currently a prospective Ph.D. student at the College of Control Science and
 
 **Jingran Zhang**, Shuangpeng Wu, Daiyang Jiang, Shuda Lu, Xinrui Liu, Haiying Wan*, Rong Xiong, Xingwen Zheng
 
-
-
 My Responsibilities:
 - Hydrodynamic-informed neural network algorithm Design; 
 - Code implementation; 
@@ -57,22 +55,8 @@ My Responsibilities:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control (Q2,top)</div><img src='images/publications/jpc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
-[Physics-informed neural networksfor multi-stage Koopman modeling of microbial fermentation processes](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)
-
-Quan Li, **Jingran Zhang**, Haiying Wan, Zhonggai Zhao, Fei Liu*
-
-[**PDF**](/pdf/journal_of_process_control.pdf)
-
-My Responsibilities:
-- Implementation of Physics-informed Koopman Neural Networks;
-- Dataset processing and neural network training;
-- Contribution to the writing of the paper.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAC 2025</div><img src='images/publications/CAC2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -89,7 +73,10 @@ My Responsibilities:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025 (accepted)</div><img src='images/publications/iros.png' alt="sym" width="100%"></div></div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025 </div><img src='images/publications/iros.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pedestrian Dead Reckoning using Invariant Extended Kalman Filter](https://arxiv.org/abs/2508.11396)
@@ -103,6 +90,42 @@ My Responsibilities:
 - Utilized motion capture equipment to obtain reference trajectories.
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control (Q3, top)</div><img src='images/publications/jpc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Physics-informed neural networksfor multi-stage Koopman modeling of microbial fermentation processes](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)
+
+Quan Li, **Jingran Zhang**, Haiying Wan, Zhonggai Zhao, Fei Liu*
+
+[**PDF**](/pdf/journal_of_process_control.pdf)
+
+My Responsibilities:
+- Implementation of Physics-informed Koopman Neural Networks;
+- Dataset processing and neural network training;
+- Contribution to the writing of the paper.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CES (Q1, Top)</div><img src='images/publications/CES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robust EMPC for the microbial fermentation process with structural model-plant mismatch: A deep Koopman model-error model method**
+
+**Quan Li***, Jingran Zhang, Haiying Wan, Chengxi Zhang, Zhijian He, Yiyang Ni, Zhonggai Zhao,  Fei Liu
+
+My Responsibilities:
+- Code implementation; 
+- Partial paper writing and data analysis; 
+- Algorithm design and modeling;
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPCID 2024</div><img src='images/publications/cpcid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
