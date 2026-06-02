@@ -41,8 +41,25 @@ I am currently a prospective Ph.D. student at the College of Control Science and
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IFAV 2026 (accepted)</div><img src='images/publications/PINN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Self-Motion Estimation of a Robotic Fish via a Hydrodynamic-Informed Neural Network with Pressure Sensing**
+
+**Jingran Zhang**, Shuangpeng Wu, Daiyang Jiang, Shuda Lu, Xinrui Liu, Haiying Wan*, Rong Xiong, Xingwen Zheng
+
+
+
+My Responsibilities:
+- Hydrodynamic-informed neural network algorithm Design; 
+- Code implementation; 
+- Paper writing and data analysis;
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control (Q2,top)</div><img src='images/publications/jpc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Physics-informed neural networksfor multi-stage Koopman modeling of microbial fermentation processes](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=Os1NMO0AAAAJ&citation_for_view=Os1NMO0AAAAJ:u5HHmVD_uO8C)
 
